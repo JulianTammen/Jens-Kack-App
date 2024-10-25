@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452565842878",
+    "project_id": "jenskackapp",
+    "storage_bucket": "jenskackapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452565842878:android:f8f6725677c674a11a17ef",
+        "android_client_info": {
+          "package_name": "com.example.kurs1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6usa_94uYE3glj7MILuEFOnyKfYZFL2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452565842878:android:c8b88216ecce39391a17ef",
+        "android_client_info": {
+          "package_name": "com.jens.kackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6usa_94uYE3glj7MILuEFOnyKfYZFL2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
